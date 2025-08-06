@@ -2,6 +2,8 @@
 
 minimal neovim config without the bloat.
 
+![seoul256 colorscheme](seoul256.png)
+
 ## plugins
 
 - **seoul256** - clean colorscheme

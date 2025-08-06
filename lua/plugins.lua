@@ -7,7 +7,6 @@ vim.pack.add({
 })
 
 -- Colorscheme
-vim.g.seoul256_srgb = 1
 vim.cmd("colorscheme seoul256")
 vim.cmd("hi Normal guibg=NONE")
 vim.cmd("hi Visual ctermfg=none")
